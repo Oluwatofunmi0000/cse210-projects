@@ -78,9 +78,9 @@ class Program
     {
         List<Activity> activities = new List<Activity>
         {
-            new Running("03 Nov 2022", 30, 4.8),
-            new Cycling("03 Nov 2022", 45, 15.5),
-            new Swimming("03 Nov 2022", 40, 30)
+            new Running("03 Feb 2025", 30, 4.8),
+            new Cycling("03 Feb 2025", 45, 15.5),
+            new Swimming("03 Feb 2025", 40, 30)
         };
 
         foreach (Activity activity in activities)
